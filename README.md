@@ -1,6 +1,7 @@
 # serverless-app
 
-![Alt text](image.png) << this is the infrastructure I created..
+![Alt text](image.png) 
+this is the infrastructure I created..
 
 
 
@@ -26,4 +27,11 @@ Steps to build the infrastrcuture on AWS using Terraform:
 • Creating an API Gateway
 • Create the S3 bucket to host the HTML website in S3.
 • Access the website using the output I created using for the API Gateway.
-the end.
+
+
+
+After Terraform Init, Plan and Apply. This is the image I recived and the bottom link takes you here.
+![Alt text](image-1.png)
+
+
+![Alt text](image-2.png)
