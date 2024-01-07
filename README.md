@@ -34,4 +34,4 @@ After Terraform Init, Plan and Apply. This is the image I recived and the bottom
 ![Alt text](image-1.png)
 
 
-![Alt text](image-2.png)
+![Alt text](image-3.png)
